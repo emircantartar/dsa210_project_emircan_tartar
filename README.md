@@ -30,22 +30,22 @@ Assess my loyalty to specific channels by analyzing recurring views and possible
 
 Project Plan and Timeline:
 
-Data Exploration (November 30, 2024)
+Data Exploration (November 30, 2024):
 Load the dataset and conduct an initial exploration to understand the data structure and identify any data cleaning needs.
 Document key observations from the data exploration phase in this repository.
 
-Viewing Patterns Analysis (Early December 2024)
+Viewing Patterns Analysis (Early December 2024):
 Analyze and visualize viewing times, identifying peak watching periods, including hours of the day and days of the week.
 Investigate if certain time frames correlate with specific content or channels.
 
-Channel Preference and Loyalty Analysis (Mid-December 2024)
+Channel Preference and Loyalty Analysis (Mid-December 2024):
 Calculate the frequency of views per channel to determine my top channels.
 Visualize channel preferences and assess channel loyalty by examining repeat views and trends over time.
 
-Insights and Summary Report (End of December 2024)
+Insights and Summary Report (End of December 2024):
 Compile findings from both analyses into a final report.
 Document any observed trends, insights into viewing habits, and patterns of channel loyalty.
 
-Final Repository Submission (End of December 2024)
+Final Repository Submission (End of December 2024):
 Ensure that all code, analysis, and documentation are updated in the repository for final submission.
 
