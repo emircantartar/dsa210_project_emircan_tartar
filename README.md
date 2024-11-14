@@ -5,47 +5,51 @@ YouTube Watching History Analysis
 
 Project Overview:
 
-This project aims to explore my YouTube watching history to uncover patterns in my viewing habits and analyze channel preferences and loyalty. By examining this data, I will gain insights into my peak viewing times and my loyalty to specific channels, offering a data-driven perspective on my personal content consumption habits.
+This project explores my YouTube-watching history to uncover patterns in my viewing habits and analyze channel preferences and loyalty. By examining this data, I aim to gain insights into my peak viewing times and my loyalty to specific channels, offering a data-driven perspective on my content consumption habits.
+
+Motivation:
+
+As video content consumption becomes an increasingly significant part of daily life, understanding personal viewing habits can offer valuable insights. Analyzing my own YouTube watching history allows me to identify when I watch videos the most and which types of content and channels capture my attention. This analysis could reveal trends in my interests over time, helping me understand how I engage with different types of content on the platform.
+
+Main Research Questions:
+
+This project will address the following questions:
+
+Viewing Patterns:
+
+What are my peak viewing times across different days and hours?
+Do my viewing habits show any consistent patterns based on the day of the week or time of day?
+
+Channel Preference and Loyalty:
+Which channels do I watch most frequently, and are there specific channels I consistently return to?
+How does my engagement with channels change over time—are there shifts in my preferred channels or new favorites emerging?
 
 Dataset Description:
 
-The dataset comprises my YouTube watching history, with each entry representing a video watched. It includes the following key attributes:
+The dataset includes my YouTube watching history, each representing a video I watched. It contains the following attributes:
 
-watch_time: The timestamp of when each video was watched. This field allows for analysis of time-based viewing patterns, such as identifying peak watching hours or days of the week.
-video_title: The title of the watched video. This field can help identify the content type or genre of each video, offering insights into favored topics.
-video_url: The unique URL for each video watched. This allows for categorizing or revisiting videos for specific analyses.
-channel_name: The name of the YouTube channel from which the video was watched. This field is essential for exploring channel preferences and examining any patterns in channel loyalty.
-
-Project Objectives:
-
-This project will focus on two main areas:
-
-Viewing Patterns Analysis:
-
-Analyze daily and hourly patterns in my YouTube viewing habits to understand my peak watching times.
-Explore seasonal or day-of-week patterns to see if there are consistent trends over time.
-Channel Preference and Loyalty:
-Identify the channels I watch most frequently to understand my preferences.
-Assess my loyalty to specific channels by analyzing recurring views and possible shifts in channel interests over time.
+watch_time: The timestamp of each video watched, allowing analysis of time-based patterns, such as peak watching hours and days of the week.
+video_title: The title of the watched video, is useful for identifying the type or genre of content.
+video_url: The unique URL of each video, enabling categorization or revisit analysis.
+channel_name: The name of the channel from which the video was watched, which is essential for analyzing channel preferences and assessing loyalty.
 
 Project Plan and Timeline:
 
 Data Exploration (November 30, 2024):
-Load the dataset and conduct an initial exploration to understand the data structure and identify any data cleaning needs.
-Document key observations from the data exploration phase in this repository.
+Conduct initial data exploration to understand the structure, attributes, and any cleaning requirements.
+Document preliminary insights in this repository.
 
 Viewing Patterns Analysis (Early December 2024):
-Analyze and visualize viewing times, identifying peak watching periods, including hours of the day and days of the week.
-Investigate if certain time frames correlate with specific content or channels.
+Analyze viewing times to identify peak hours and days of the week.
+Explore correlations between watching times and types of content.
 
 Channel Preference and Loyalty Analysis (Mid-December 2024):
-Calculate the frequency of views per channel to determine my top channels.
-Visualize channel preferences and assess channel loyalty by examining repeat views and trends over time.
+Calculate view frequencies per channel to determine top channels.
+Assess channel loyalty by identifying repeat views and shifts in preferences over time.
 
 Insights and Summary Report (End of December 2024):
-Compile findings from both analyses into a final report.
-Document any observed trends, insights into viewing habits, and patterns of channel loyalty.
+Compile findings into a final report, documenting trends and insights from both analyses.
 
 Final Repository Submission (End of December 2024):
-Ensure that all code, analysis, and documentation are updated in the repository for final submission.
+Ensure all analysis, code, and documentation are finalized in the repository for grading.
 
