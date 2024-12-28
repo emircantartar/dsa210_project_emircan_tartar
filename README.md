@@ -33,6 +33,9 @@ The dataset includes my YouTube watching history, each representing a video I wa
 
 ---
 
+## Final Presentation and Analysis
+You can find the slides in my GitHub files.
+
 ## Project Plan and Timeline
 
 ### Data Exploration (November 30, 2024)
